@@ -21,7 +21,8 @@ There’s a lot we’d like to know about it:
 - what is it made of?
 - what will happen to it?
 - why does it exist?
-- Let’s go!…
+
+_Let’s go!…_
 
 # The Universe is full of stuff.
 
