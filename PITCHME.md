@@ -2,7 +2,7 @@
 marp: true
 title: The Universe
 description: What even IS the universe?
-paginate: true
+paginate: false
 color: black
 ---
 
